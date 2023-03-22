@@ -23,15 +23,14 @@
 ## Hướng dẫn cài đặt
 
 ```
-Sử dụng phần mềm Balsamiq và Figma để chạy 2 file tương ứng.
+Sử dụng phần mềm Balsamiq và Figma để chạy các file tương ứng.
 ```
 ## Link demo: </br>
-```
-1. Figma-app: https://www.figma.com/file/iC8M0nQhsckNnneBxEugDE/app-Figma?node-id=0%3A1&t=nKXJrCgGL8ttlUMj-1
-```
-```
-2. Figma-web: https://www.figma.com/file/CJVr9WAZoiT1JQDz8NgMFI/web-Figma?node-id=0%3A1&t=z0mguDbFPuQwqD64-1
-```
+
+1. Figma-app: https://www.figma.com/file/iC8M0nQhsckNnneBxEugDE/app-Figma?node-id=0%3A1&t=nKXJrCgGL8ttlUMj-1 </br>
+
+2. Figma-web: https://www.figma.com/file/CJVr9WAZoiT1JQDz8NgMFI/web-Figma?node-id=0%3A1&t=z0mguDbFPuQwqD64-1 </br>
+
 
 ## Một số giao diện của website
 ![img1.png](imgReadme/img1.png)
