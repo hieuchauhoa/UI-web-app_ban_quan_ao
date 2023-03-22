@@ -37,3 +37,4 @@ Sử dụng phần mềm Balsamiq và Figma để chạy các file tương ứng
 ![img2.png](imgReadme/img2.png)
 ![img3.png](imgReadme/img3.png)
 ![img4.png](imgReadme/img4.png)
+![img5.png](imgReadme/img5.png)
